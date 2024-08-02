@@ -863,5 +863,7 @@ namespace ycx_planner {
         costmap_->setCost(mx, my, costmap_2d::FREE_SPACE);
     }
 
+    //lalalala
+
 
 };
