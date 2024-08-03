@@ -41,6 +41,9 @@
 #include <tf2_geometry_msgs/tf2_geometry_msgs.h>
 
 //register this planner as a BaseGlobalPlanner plugin
+
+
+//test merge
 PLUGINLIB_EXPORT_CLASS(ycx_planner::YcxPlanner, nav_core::BaseGlobalPlanner)
 
 namespace ycx_planner {
